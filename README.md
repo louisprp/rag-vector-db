@@ -4,8 +4,8 @@ This repository contains a program built with Pinecone vector storage, Groq, and
 
 ## Showcase
 
-<video width="full" controls>
-  <source src="showcase/screenrecording.mp4" type="video/mp4">
+<video width="100%" controls>
+  <source src="https://github.com/louisprp/rag-vector-db/raw/main/showcase/screenrecording.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
