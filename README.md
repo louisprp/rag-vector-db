@@ -3,11 +3,8 @@
 This repository contains a program built with Pinecone vector storage, Groq, and Streamlit. The program is designed to parse documents, split them into chunks, convert these chunks into vectors, store them in a Pinecone vector database, and allow for efficient querying and retrieval of similar matches and their corresponding metadata. Additionally, a Streamlit frontend has been created to facilitate user interaction with the database.
 
 ## Showcase
-
-<video width="100%" controls>
-  <source src="https://github.com/louisprp/rag-vector-db/raw/main/showcase/screenrecording.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+ 
+https://github.com/louisprp/rag-vector-db/assets/99763026/96848076-d46d-4b64-9425-f6cc6e7784c0
 
 ## Features
 
