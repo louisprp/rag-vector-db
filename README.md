@@ -4,7 +4,7 @@ This repository contains a program built with Pinecone vector storage, Groq, and
 
 ## Showcase
  
-[https://github.com/louisprp/rag-vector-db/raw/main/showcase/screenrecording.mp4](https://github.com/louisprp/rag-vector-db/assets/99763026/96848076-d46d-4b64-9425-f6cc6e7784c0)
+![Screenrecording](https://github.com/louisprp/rag-vector-db/assets/99763026/96848076-d46d-4b64-9425-f6cc6e7784c0)
 
 ## Features
 
